@@ -3,8 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/your-username?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-I'm a student with a passion for coding. I love working on projects related to problem-solving and I'm always eager to learn new things and collaborate with others.
-
+I'm a student passionate about programming. I love working on problem-solving projects and I'm always eager to learn new things and collaborate with others.
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
@@ -16,21 +15,21 @@ I'm a student with a passion for coding. I love working on projects related to p
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/vikasmpawar/)
 - [Email](mailto:vikasmpawar07@gmail.com)
 
 ## 🎯 Goals for 2024
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+- [ ] Explore new technologies.
+- [ ] Improve Problem-Solving Skills
+- [ ] Learn a new skill.
 
 ## 🤔 What I'm currently working on
 - Project 1
 - Project 2
 
 ## 📚 My Top Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name&show_owner=true)](https://github.com/your-username/repo-name)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name&show_owner=true)](https://github.com/your-username/repo-name)
+[![WanderLust](https://wander-lust-6cpq.onrender.com/listings)](https://github.com/vikasp07/Wander_lust)
+[![VKS]](https://github.com/vikasp07/VKSPROJECT)
 
 ## 🌱 Fun Fact
 Did you know that [interesting fact about you or your field]?
