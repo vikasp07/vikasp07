@@ -41,7 +41,7 @@ I'm an engineering student with a passion for problem-solving and software devel
 
 ---
 
-## 🌟 2024 Goals
+## 🌟 2025 Goals
 - [ ] Explore advanced full-stack frameworks like Next.js and GraphQL.
 - [ ] Enhance problem-solving skills through competitive programming.
 - [ ] Master cloud services (AWS/GCP) and containerization (Docker).
