@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/vikasp07?label=Follow&style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/vikasp07?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-I'm an engineering student with a passion for problem-solving and software development. I enjoy creating impactful projects and love collaborating on innovative solutions that make a difference. Whether it’s building full-stack applications or diving into new technologies, I’m always looking to expand my knowledge and skills.
+I'm an engineering student at **Vivekanand Education Society’s Institute of Technology** with a passion for problem-solving, full-stack development, and innovative technology. With a current CGPA of 9.15 (till sem-3), I love building projects that make a difference—whether it's integrating cutting-edge AI solutions or developing interactive web applications.
 
 ---
 
@@ -35,9 +35,69 @@ I'm an engineering student with a passion for problem-solving and software devel
 
 ---
 
-## 📬 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/vikasmpawar/)
-- [Email](mailto:vikasmpawar07@gmail.com)
+## 🎓 Education
+
+- **Bachelor of Technology**  
+  *Vivekanand Education Society’s Institute of Technology* (Jan 2023 – Present)  
+  **CGPA:** 9.15 (till sem-3)
+
+- **HSC** – CBSE Board, **Percentage:** 89.4% (June 2021 – May 2023)  
+- **SSC** – CBSE Board, **Percentage:** 91.2% (April 2008 – May 2021)
+
+---
+
+## 🏆 Highlighted Projects
+
+### [Game Therapy](https://github.com/vikasp07/Game-Theraphy)
+- **Stack:** MERN, Twilio, Google APIs, TensorFlow, Hugging Face  
+- **Overview:** Developed an adaptive game platform designed to support individuals facing cognitive and emotional challenges.  
+- **Highlights:**
+  - Interactive games like *Family Tree* (dyslexia-friendly using Arduino-based hand gestures) and *Astra* (maze game controlled via hand movements).
+  - Integrated an AI chatbot therapist for personalized support.
+  - Implemented a secure authentication system using JWT tokens.
+
+### [CampusRick](https://github.com/vikasp07/CampusRick)
+- **Stack:** Java (Spring Boot), Flutter, FlutterFlow, SupaBase, Google Maps API  
+- **Overview:** A ride-sharing application tailored for college students to simplify commuting.
+- **Highlights:**
+  - Real-time booking system with triple-sharing functionality.
+  - Automated fare calculation and live vehicle tracking with Google Maps API.
+
+### [WanderLust](https://github.com/vikasp07/Wander_lust)
+- **Stack:** MongoDB, ExpressJS, NodeJS, Cloudinary, Passport.js, Bootstrap  
+- **Overview:** A full-stack travel platform that enables users to explore, share, and review their favorite destinations.
+- **Highlights:**
+  - Secure user authentication and support for image uploads via Multer and Cloudinary.
+  - Comprehensive CRUD functionality for user listings and reviews.
+
+---
+
+## 💼 Experience & Internships
+
+### Technical Officer, Tinkerer’s ECS Lab (July 2024 – Present)
+- Led hands-on sessions in web development and IoT.
+- Provided technical guidance during workshops and optimized hardware configurations.
+
+### Technical Support Manager, VESIT (June 2024 – Present)
+- Troubleshooted networking, database, and system performance issues.
+- Ensured smooth operation of servers, databases, and online assessment platforms.
+- Documented solutions and created guides for effective troubleshooting.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** Java, Python, JavaScript, C, SQL  
+- **Frameworks & Libraries:** MongoDB, Express.js, React.js, Node.js, Material-UI, Supabase, Bootstrap  
+- **Tools:** Git, GitHub  
+- **Soft Skills:** Communication, Problem Solving, Teamwork, Leadership
+
+---
+
+## 🏅 Certifications & Achievements
+
+- **Digital Design for Selected Architecture of SERDES and FPGA Testing (2024)**
+- **VES Hack-IT Hackathon Finalist (2025)**
 
 ---
 
@@ -45,19 +105,13 @@ I'm an engineering student with a passion for problem-solving and software devel
 - [ ] Explore advanced full-stack frameworks like Next.js and GraphQL.
 - [ ] Enhance problem-solving skills through competitive programming.
 - [ ] Master cloud services (AWS/GCP) and containerization (Docker).
-- [ ] Contribute to open-source projects regularly.
+- [ ] Contribute regularly to open-source projects.
 
 ---
 
-## 🏆 Highlighted Projects
-Here are some of the projects I'm proud of:
-
-- [**WanderLust**](https://github.com/vikasp07/Wander_lust): A full-stack travel platform that enables users to explore and share destinations with user authentication and image hosting via Cloudinary.
-  
-- [**WeatherInfo**](https://github.com/vikasp07/WeatherInfo): A weather forecasting app using React.js and OpenWeather API, with dynamic weather visuals.
-
-- [**VKSPROJECT**](https://github.com/vikasp07/VKSPROJECT): A comprehensive project demonstrating my full-stack capabilities in React and Node.js, focused on building scalable and responsive applications.
-
----
+## 📬 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/vikasmpawar/)
+- [Email](mailto:vikasmpawar07@gmail.com)
+- [Portfolio](https://vikasmpawar.onrender.com)
 
 Thanks for stopping by! Feel free to explore my projects and connect with me. 😊
