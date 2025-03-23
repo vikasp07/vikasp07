@@ -72,7 +72,7 @@ More projects on my **[GitHub](https://github.com/vikasp07?tab=repositories)** �
 
 ## 🌱 2025 Learning Goals
 
-✅ **Master advanced full-stack frameworks **  
+✅ **Master advanced full-stack frameworks**  
 ✅ **Deep dive into AI & ML with TensorFlow and Hugging Face**  
 ✅ **Enhance cloud computing skills (AWS) and containerization (Docker)**  
 ✅ **Contribute to open-source projects and participate in hackathons**  
