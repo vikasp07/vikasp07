@@ -28,19 +28,13 @@ I'm an engineering student passionate about problem-solving, software developmen
 ![Express.js](https://img.shields.io/badge/-Express.js-333?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
-![SupaBase](https://img.shields.io/badge/-SupaBase-333?style=flat&logo=supabase)
 
 ### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 
 ### **AI & Embedded Systems**
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![Hugging Face](https://img.shields.io/badge/-Hugging--Face-333?style=flat&logo=huggingface)
-![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)
 ![FPGA](https://img.shields.io/badge/-FPGA-333?style=flat)
 
 ---
