@@ -59,8 +59,10 @@ More projects on my **[GitHub](https://github.com/vikasp07?tab=repositories)** ð
 
 ## ðŸ“Š GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikasp07&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasp07&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=vikasp07&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=vikasp07&layout=compact&theme=radical)
+
 
 ---
 
