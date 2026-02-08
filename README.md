@@ -1,94 +1,188 @@
+<div align="center">
+
 # Hi there, I'm Vikas Pawar! 👋
 
 [![Follow on GitHub](https://img.shields.io/github/followers/vikasp07?label=Follow&style=social)](https://github.com/vikasp07)
-[![GitHub Stars](https://img.shields.io/github/stars/vikasp07?style=social)](https://github.com/vikasp07?tab=stars)
+[![Profile Views](https://komarev.com/ghpvc/?username=vikasp07&color=blue&style=flat)](https://github.com/vikasp07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/vikasmpawar/)
 
-I'm an engineering student passionate about problem-solving, software development, and cutting-edge technology. With a strong foundation in **full-stack development, AI, and database management**, I build impactful solutions that enhance user experiences. My interests span **web development, AI-driven systems, and embedded technologies**.
+</div>
+
+## 👨‍💻 About Me
+
+I'm an engineering student passionate about problem-solving, software development, and cutting-edge technology. With a strong foundation in **full-stack development, AI, and database management**, I build impactful solutions that enhance user experiences.
+
+- 🔭 Currently working on AI-driven applications and full-stack projects
+- 🌱 Learning advanced cloud technologies (AWS, Docker) and AI/ML frameworks
+- 💡 Interested in web development, AI-driven systems, and embedded technologies
+- 🎯 2026 Goal: Contribute to impactful open-source projects
+- 📫 Reach me at: **vikasmpawar07@gmail.com**
+- 🌐 Portfolio: [vikasmpawar.onrender.com](https://vikasmpawar.onrender.com)
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-### 🧠 Programming Languages
-![Java](https://img.shields.io/badge/Java-333?style=flat&logo=java&logoColor=007396)
-![Python](https://img.shields.io/badge/Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/C-333?style=flat&logo=c)
-![SQL](https://img.shields.io/badge/SQL-333?style=flat&logo=mysql)
+<div align="center">
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-333?style=flat&logo=react)
-![Material UI](https://img.shields.io/badge/Material--UI-333?style=flat&logo=mui)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-333?style=flat&logo=bootstrap)
-![HTML5](https://img.shields.io/badge/HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-333?style=flat&logo=css3)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-333?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-333?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-333?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-333?style=flat&logo=mysql)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ☁️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github)
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### 🤖 AI & Embedded
-![TensorFlow](https://img.shields.io/badge/TensorFlow-333?style=flat&logo=tensorflow)
-![FPGA](https://img.shields.io/badge/FPGA-333?style=flat)
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+</div>
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🎮 [Game Therapy](https://github.com/vikasp07/Game-Theraphy)
-- **Tech:** MERN, TensorFlow, Hugging Face, Google APIs, Twilio  
-- Adaptive game-based therapy platform with AI chatbot therapist and guardian monitoring dashboard.
+<table>
+<tr>
+<td width="50%">
 
-### 🚕 [CampusRick](https://github.com/vikasp07/CampusRick)
-- **Tech:** Java (Spring Boot), Flutter, Supabase, Google Maps API  
-- College-focused ride-sharing system with real-time tracking and automated fare calculation.
+### 🎮 Game Therapy
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat&logo=github)](https://github.com/vikasp07/Game-Therapy)
 
-### 🌍 [WanderLust](https://github.com/vikasp07/Wander_lust)
-- **Tech:** MongoDB, Express, Node.js, Cloudinary, Passport.js  
-- Travel discovery platform with authentication, media uploads, and user-generated content.
+**Tech Stack:** MERN, TensorFlow, Hugging Face, Google APIs, Twilio
 
-👉 More projects: [GitHub Repositories](https://github.com/vikasp07?tab=repositories)
+Adaptive game-based therapy platform featuring:
+- AI-powered chatbot therapist
+- Guardian monitoring dashboard
+- Real-time therapy session tracking
+- Personalized game recommendations
+
+</td>
+<td width="50%">
+
+### 🤖 Sentient-Trader
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat&logo=github)](https://github.com/vikasp07/Sentient-Trader)
+
+**Tech Stack:** Python, FinBERT, Kafka, Redis, FastAPI, Docker
+
+AI-powered real-time trading intelligence platform featuring:
+- FinBERT sentiment analysis
+- 27 technical indicators (RSI, MACD, etc.)
+- Real-time news ingestion & processing
+- Distributed streaming with Kafka
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌳 Habitat
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat&logo=github)](https://github.com/vikasp07/hack-i)
+
+**Tech Stack:** Next.js 16, TypeScript, Leaflet.js, OpenAI, Sentinel Hub API
+
+GIS-powered adaptive reforestation platform featuring:
+- Interactive mapping with satellite imagery
+- Real-time ecosystem health monitoring
+- AI-powered species recommendations
+- Calamity simulation & risk prediction
+
+</td>
+<td width="50%">
+
+### 🚕 CampusRick
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat&logo=github)](https://github.com/vikasp07/campus-rick)
+
+**Tech Stack:** Java (Spring Boot), Flutter, Supabase, Google Maps API
+
+College-focused ride-sharing system featuring:
+- Real-time ride tracking
+- Automated fare calculation
+- Student-verified carpooling
+- Route optimization
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-> If cards don’t load instantly, GitHub rate limits third-party services. Refresh after some time.
+<!-- <div align="center">
 
-![Vikas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikasp07&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikasp07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasp07&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasp07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
----
+</div> -->
 
-## 🔥 GitHub Streak
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vikasp07&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vikasp07&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasp07&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+
+</div>
 
 ---
 
 ## 🌱 2026 Goals
 
-- Master advanced full-stack frameworks  
-- Deep dive into AI/ML with TensorFlow & Hugging Face  
-- Learn cloud & DevOps (AWS, Docker)  
-- Contribute to impactful open-source projects  
+- 🚀 Master advanced full-stack frameworks
+- 🤖 Deep dive into AI/ML with TensorFlow & Hugging Face
+- ☁️ Learn cloud & DevOps (AWS, Docker, Kubernetes)
+- 🌟 Contribute to impactful open-source projects
+- 📚 Build production-ready scalable applications
 
 ---
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikasmpawar/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vikasmpawar07@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=react)](https://vikasmpawar.onrender.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikasmpawar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikasmpawar07@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://vikasmpawar.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikasp07)
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vikasmp/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vikasmp)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vikasmp)
+
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!  
-Feel free to explore, star repositories, and reach out for collaborations.
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*Feel free to explore my repositories, star projects you find interesting, and reach out for collaborations.*
+
+**Let's build something amazing together!** 🚀
+
+</div>
