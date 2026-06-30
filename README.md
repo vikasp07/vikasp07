@@ -124,30 +124,6 @@ College-focused ride-sharing system featuring:
 
 ---
 
-## 📊 GitHub Statistics
-
-<!-- <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikasp07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasp07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div> -->
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vikasp07&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasp07&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
-
-</div>
-
----
-
 ## 🌱 2026 Goals
 
 - 🚀 Master advanced full-stack frameworks
@@ -169,7 +145,7 @@ College-focused ride-sharing system featuring:
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ENSbjbrj/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vikasmp)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vikasmp)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vikasmp)
 
