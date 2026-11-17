@@ -158,7 +158,7 @@ GIS-powered adaptive reforestation platform.
 <div align="center">
 
 <a href="https://leetcode.com/vikasmp">
-<img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%201885%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://codeforces.com/profile/vikasmp">
